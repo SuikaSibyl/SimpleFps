@@ -1,0 +1,67 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  BMPOps.cpp
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(121,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(122,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(123,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(109,6): warning C4101: “layer”: 未引用的局部变量
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(149,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(153,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(157,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(132,12): warning C4101: “layer”: 未引用的局部变量
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(182,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(220,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(256,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(283,34): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(316,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\BMPOps.cpp(349,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  bullet.cpp
+  Camera.cpp
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\collider.h(33,39): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Camera.cpp(62,15): warning C4101: “newy_velocity”: 未引用的局部变量
+  chicken.cpp
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Chicken.h(16,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Chicken.h(16,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Shader.h(59,40): warning C4101: “e”: 未引用的局部变量
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Texture.h(92,24): warning C4101: “data”: 未引用的局部变量
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\collider.h(33,39): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Cube.h(458,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Cube.h(459,31): warning C4018: “<”: 有符号/无符号不匹配
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Cube.h(491,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Cube.h(537,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(317,76): warning C4305: “参数”: 从“double”到“float”截断
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(321,84): warning C4305: “参数”: 从“double”到“float”截断
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(322,83): warning C4305: “参数”: 从“double”到“float”截断
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(323,84): warning C4305: “参数”: 从“double”到“float”截断
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(324,82): warning C4305: “参数”: 从“double”到“float”截断
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(475,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(497,32): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(774,29): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(1236,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(1237,12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(1241,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(1242,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(1244,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(1245,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\main.cpp(1255,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  obj.cpp
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\obj.cpp(30,13): warning C4018: “<”: 有符号/无符号不匹配
+  stb.cpp
+  Texture.h
+E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Lab\Texture.h(92,24): warning C4101: “data”: 未引用的局部变量
+  正在生成代码...
+  glad.c
+  Lab.vcxproj -> E:\All\文档Files\大学\CS课程\CG计算机图形学\鲁昊霖3180101046 陈乐婷3180103560 唐敏哲3180101042 周宇轩3180105058\code\Lab\Debug\Lab.exe
